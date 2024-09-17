@@ -1,0 +1,7 @@
+J:\2024-2025\csharp\3oszthato1\3oszthato2\3oszthato2\bin\Debug\3oszthato2.exe.config
+J:\2024-2025\csharp\3oszthato1\3oszthato2\3oszthato2\bin\Debug\3oszthato2.exe
+J:\2024-2025\csharp\3oszthato1\3oszthato2\3oszthato2\bin\Debug\3oszthato2.pdb
+J:\2024-2025\csharp\3oszthato1\3oszthato2\3oszthato2\obj\Debug\3oszthato2.csproj.AssemblyReference.cache
+J:\2024-2025\csharp\3oszthato1\3oszthato2\3oszthato2\obj\Debug\3oszthato2.csproj.CoreCompileInputs.cache
+J:\2024-2025\csharp\3oszthato1\3oszthato2\3oszthato2\obj\Debug\3oszthato2.exe
+J:\2024-2025\csharp\3oszthato1\3oszthato2\3oszthato2\obj\Debug\3oszthato2.pdb
